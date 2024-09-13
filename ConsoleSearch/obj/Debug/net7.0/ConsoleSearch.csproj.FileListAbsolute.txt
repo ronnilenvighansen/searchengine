@@ -1,0 +1,102 @@
+/Users/ronnihansen/Desktop/EASV Softwareudvikling/Development of Large Systems/Opgaver/W35 The Scalability Cube/SearchEngine/ConsoleSearch/bin/Debug/net7.0/ConsoleSearch
+/Users/ronnihansen/Desktop/EASV Softwareudvikling/Development of Large Systems/Opgaver/W35 The Scalability Cube/SearchEngine/ConsoleSearch/bin/Debug/net7.0/ConsoleSearch.deps.json
+/Users/ronnihansen/Desktop/EASV Softwareudvikling/Development of Large Systems/Opgaver/W35 The Scalability Cube/SearchEngine/ConsoleSearch/bin/Debug/net7.0/ConsoleSearch.runtimeconfig.json
+/Users/ronnihansen/Desktop/EASV Softwareudvikling/Development of Large Systems/Opgaver/W35 The Scalability Cube/SearchEngine/ConsoleSearch/bin/Debug/net7.0/ConsoleSearch.dll
+/Users/ronnihansen/Desktop/EASV Softwareudvikling/Development of Large Systems/Opgaver/W35 The Scalability Cube/SearchEngine/ConsoleSearch/bin/Debug/net7.0/ConsoleSearch.pdb
+/Users/ronnihansen/Desktop/EASV Softwareudvikling/Development of Large Systems/Opgaver/W35 The Scalability Cube/SearchEngine/ConsoleSearch/bin/Debug/net7.0/Azure.Core.dll
+/Users/ronnihansen/Desktop/EASV Softwareudvikling/Development of Large Systems/Opgaver/W35 The Scalability Cube/SearchEngine/ConsoleSearch/bin/Debug/net7.0/Azure.Identity.dll
+/Users/ronnihansen/Desktop/EASV Softwareudvikling/Development of Large Systems/Opgaver/W35 The Scalability Cube/SearchEngine/ConsoleSearch/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/ronnihansen/Desktop/EASV Softwareudvikling/Development of Large Systems/Opgaver/W35 The Scalability Cube/SearchEngine/ConsoleSearch/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/ronnihansen/Desktop/EASV Softwareudvikling/Development of Large Systems/Opgaver/W35 The Scalability Cube/SearchEngine/ConsoleSearch/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/ronnihansen/Desktop/EASV Softwareudvikling/Development of Large Systems/Opgaver/W35 The Scalability Cube/SearchEngine/ConsoleSearch/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/ronnihansen/Desktop/EASV Softwareudvikling/Development of Large Systems/Opgaver/W35 The Scalability Cube/SearchEngine/ConsoleSearch/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/ronnihansen/Desktop/EASV Softwareudvikling/Development of Large Systems/Opgaver/W35 The Scalability Cube/SearchEngine/ConsoleSearch/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/ronnihansen/Desktop/EASV Softwareudvikling/Development of Large Systems/Opgaver/W35 The Scalability Cube/SearchEngine/ConsoleSearch/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/ronnihansen/Desktop/EASV Softwareudvikling/Development of Large Systems/Opgaver/W35 The Scalability Cube/SearchEngine/ConsoleSearch/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/ronnihansen/Desktop/EASV Softwareudvikling/Development of Large Systems/Opgaver/W35 The Scalability Cube/SearchEngine/ConsoleSearch/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/ronnihansen/Desktop/EASV Softwareudvikling/Development of Large Systems/Opgaver/W35 The Scalability Cube/SearchEngine/ConsoleSearch/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/ronnihansen/Desktop/EASV Softwareudvikling/Development of Large Systems/Opgaver/W35 The Scalability Cube/SearchEngine/ConsoleSearch/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/ronnihansen/Desktop/EASV Softwareudvikling/Development of Large Systems/Opgaver/W35 The Scalability Cube/SearchEngine/ConsoleSearch/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/ronnihansen/Desktop/EASV Softwareudvikling/Development of Large Systems/Opgaver/W35 The Scalability Cube/SearchEngine/ConsoleSearch/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/Users/ronnihansen/Desktop/EASV Softwareudvikling/Development of Large Systems/Opgaver/W35 The Scalability Cube/SearchEngine/ConsoleSearch/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/ronnihansen/Desktop/EASV Softwareudvikling/Development of Large Systems/Opgaver/W35 The Scalability Cube/SearchEngine/ConsoleSearch/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/ronnihansen/Desktop/EASV Softwareudvikling/Development of Large Systems/Opgaver/W35 The Scalability Cube/SearchEngine/ConsoleSearch/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/ronnihansen/Desktop/EASV Softwareudvikling/Development of Large Systems/Opgaver/W35 The Scalability Cube/SearchEngine/ConsoleSearch/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/ronnihansen/Desktop/EASV Softwareudvikling/Development of Large Systems/Opgaver/W35 The Scalability Cube/SearchEngine/ConsoleSearch/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/ronnihansen/Desktop/EASV Softwareudvikling/Development of Large Systems/Opgaver/W35 The Scalability Cube/SearchEngine/ConsoleSearch/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ronnihansen/Desktop/EASV Softwareudvikling/Development of Large Systems/Opgaver/W35 The Scalability Cube/SearchEngine/ConsoleSearch/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/ronnihansen/Desktop/EASV Softwareudvikling/Development of Large Systems/Opgaver/W35 The Scalability Cube/SearchEngine/ConsoleSearch/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/ronnihansen/Desktop/EASV Softwareudvikling/Development of Large Systems/Opgaver/W35 The Scalability Cube/SearchEngine/ConsoleSearch/bin/Debug/net7.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/ronnihansen/Desktop/EASV Softwareudvikling/Development of Large Systems/Opgaver/W35 The Scalability Cube/SearchEngine/ConsoleSearch/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/ronnihansen/Desktop/EASV Softwareudvikling/Development of Large Systems/Opgaver/W35 The Scalability Cube/SearchEngine/ConsoleSearch/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ronnihansen/Desktop/EASV Softwareudvikling/Development of Large Systems/Opgaver/W35 The Scalability Cube/SearchEngine/ConsoleSearch/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ronnihansen/Desktop/EASV Softwareudvikling/Development of Large Systems/Opgaver/W35 The Scalability Cube/SearchEngine/ConsoleSearch/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ronnihansen/Desktop/EASV Softwareudvikling/Development of Large Systems/Opgaver/W35 The Scalability Cube/SearchEngine/ConsoleSearch/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ronnihansen/Desktop/EASV Softwareudvikling/Development of Large Systems/Opgaver/W35 The Scalability Cube/SearchEngine/ConsoleSearch/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/ronnihansen/Desktop/EASV Softwareudvikling/Development of Large Systems/Opgaver/W35 The Scalability Cube/SearchEngine/ConsoleSearch/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/ronnihansen/Desktop/EASV Softwareudvikling/Development of Large Systems/Opgaver/W35 The Scalability Cube/SearchEngine/ConsoleSearch/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/ronnihansen/Desktop/EASV Softwareudvikling/Development of Large Systems/Opgaver/W35 The Scalability Cube/SearchEngine/ConsoleSearch/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/ronnihansen/Desktop/EASV Softwareudvikling/Development of Large Systems/Opgaver/W35 The Scalability Cube/SearchEngine/ConsoleSearch/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ronnihansen/Desktop/EASV Softwareudvikling/Development of Large Systems/Opgaver/W35 The Scalability Cube/SearchEngine/ConsoleSearch/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/ronnihansen/Desktop/EASV Softwareudvikling/Development of Large Systems/Opgaver/W35 The Scalability Cube/SearchEngine/ConsoleSearch/obj/Debug/net7.0/ConsoleSearch.csproj.AssemblyReference.cache
+/Users/ronnihansen/Desktop/EASV Softwareudvikling/Development of Large Systems/Opgaver/W35 The Scalability Cube/SearchEngine/ConsoleSearch/obj/Debug/net7.0/ConsoleSearch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ronnihansen/Desktop/EASV Softwareudvikling/Development of Large Systems/Opgaver/W35 The Scalability Cube/SearchEngine/ConsoleSearch/obj/Debug/net7.0/ConsoleSearch.AssemblyInfoInputs.cache
+/Users/ronnihansen/Desktop/EASV Softwareudvikling/Development of Large Systems/Opgaver/W35 The Scalability Cube/SearchEngine/ConsoleSearch/obj/Debug/net7.0/ConsoleSearch.AssemblyInfo.cs
+/Users/ronnihansen/Desktop/EASV Softwareudvikling/Development of Large Systems/Opgaver/W35 The Scalability Cube/SearchEngine/ConsoleSearch/obj/Debug/net7.0/ConsoleSearch.csproj.CoreCompileInputs.cache
+/Users/ronnihansen/Desktop/EASV Softwareudvikling/Development of Large Systems/Opgaver/W35 The Scalability Cube/SearchEngine/ConsoleSearch/obj/Debug/net7.0/ConsoleS.0D0CE351.Up2Date
+/Users/ronnihansen/Desktop/EASV Softwareudvikling/Development of Large Systems/Opgaver/W35 The Scalability Cube/SearchEngine/ConsoleSearch/obj/Debug/net7.0/ConsoleSearch.dll
+/Users/ronnihansen/Desktop/EASV Softwareudvikling/Development of Large Systems/Opgaver/W35 The Scalability Cube/SearchEngine/ConsoleSearch/obj/Debug/net7.0/refint/ConsoleSearch.dll
+/Users/ronnihansen/Desktop/EASV Softwareudvikling/Development of Large Systems/Opgaver/W35 The Scalability Cube/SearchEngine/ConsoleSearch/obj/Debug/net7.0/ConsoleSearch.pdb
+/Users/ronnihansen/Desktop/EASV Softwareudvikling/Development of Large Systems/Opgaver/W35 The Scalability Cube/SearchEngine/ConsoleSearch/obj/Debug/net7.0/ConsoleSearch.genruntimeconfig.cache
+/Users/ronnihansen/Desktop/EASV Softwareudvikling/Development of Large Systems/Opgaver/W35 The Scalability Cube/SearchEngine/ConsoleSearch/obj/Debug/net7.0/ref/ConsoleSearch.dll
+/Users/ronnihansen/Desktop/softwareudvikling/development_of_large_systems/opgaver/w35/SearchEngine/ConsoleSearch/bin/Debug/net7.0/ConsoleSearch
+/Users/ronnihansen/Desktop/softwareudvikling/development_of_large_systems/opgaver/w35/SearchEngine/ConsoleSearch/bin/Debug/net7.0/ConsoleSearch.deps.json
+/Users/ronnihansen/Desktop/softwareudvikling/development_of_large_systems/opgaver/w35/SearchEngine/ConsoleSearch/bin/Debug/net7.0/ConsoleSearch.runtimeconfig.json
+/Users/ronnihansen/Desktop/softwareudvikling/development_of_large_systems/opgaver/w35/SearchEngine/ConsoleSearch/bin/Debug/net7.0/ConsoleSearch.dll
+/Users/ronnihansen/Desktop/softwareudvikling/development_of_large_systems/opgaver/w35/SearchEngine/ConsoleSearch/bin/Debug/net7.0/ConsoleSearch.pdb
+/Users/ronnihansen/Desktop/softwareudvikling/development_of_large_systems/opgaver/w35/SearchEngine/ConsoleSearch/bin/Debug/net7.0/Azure.Core.dll
+/Users/ronnihansen/Desktop/softwareudvikling/development_of_large_systems/opgaver/w35/SearchEngine/ConsoleSearch/bin/Debug/net7.0/Azure.Identity.dll
+/Users/ronnihansen/Desktop/softwareudvikling/development_of_large_systems/opgaver/w35/SearchEngine/ConsoleSearch/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/ronnihansen/Desktop/softwareudvikling/development_of_large_systems/opgaver/w35/SearchEngine/ConsoleSearch/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/ronnihansen/Desktop/softwareudvikling/development_of_large_systems/opgaver/w35/SearchEngine/ConsoleSearch/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/ronnihansen/Desktop/softwareudvikling/development_of_large_systems/opgaver/w35/SearchEngine/ConsoleSearch/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/ronnihansen/Desktop/softwareudvikling/development_of_large_systems/opgaver/w35/SearchEngine/ConsoleSearch/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/ronnihansen/Desktop/softwareudvikling/development_of_large_systems/opgaver/w35/SearchEngine/ConsoleSearch/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/ronnihansen/Desktop/softwareudvikling/development_of_large_systems/opgaver/w35/SearchEngine/ConsoleSearch/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/ronnihansen/Desktop/softwareudvikling/development_of_large_systems/opgaver/w35/SearchEngine/ConsoleSearch/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/ronnihansen/Desktop/softwareudvikling/development_of_large_systems/opgaver/w35/SearchEngine/ConsoleSearch/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/ronnihansen/Desktop/softwareudvikling/development_of_large_systems/opgaver/w35/SearchEngine/ConsoleSearch/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/ronnihansen/Desktop/softwareudvikling/development_of_large_systems/opgaver/w35/SearchEngine/ConsoleSearch/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/ronnihansen/Desktop/softwareudvikling/development_of_large_systems/opgaver/w35/SearchEngine/ConsoleSearch/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/ronnihansen/Desktop/softwareudvikling/development_of_large_systems/opgaver/w35/SearchEngine/ConsoleSearch/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/Users/ronnihansen/Desktop/softwareudvikling/development_of_large_systems/opgaver/w35/SearchEngine/ConsoleSearch/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/ronnihansen/Desktop/softwareudvikling/development_of_large_systems/opgaver/w35/SearchEngine/ConsoleSearch/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/ronnihansen/Desktop/softwareudvikling/development_of_large_systems/opgaver/w35/SearchEngine/ConsoleSearch/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/ronnihansen/Desktop/softwareudvikling/development_of_large_systems/opgaver/w35/SearchEngine/ConsoleSearch/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/ronnihansen/Desktop/softwareudvikling/development_of_large_systems/opgaver/w35/SearchEngine/ConsoleSearch/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/ronnihansen/Desktop/softwareudvikling/development_of_large_systems/opgaver/w35/SearchEngine/ConsoleSearch/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ronnihansen/Desktop/softwareudvikling/development_of_large_systems/opgaver/w35/SearchEngine/ConsoleSearch/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/ronnihansen/Desktop/softwareudvikling/development_of_large_systems/opgaver/w35/SearchEngine/ConsoleSearch/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/ronnihansen/Desktop/softwareudvikling/development_of_large_systems/opgaver/w35/SearchEngine/ConsoleSearch/bin/Debug/net7.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/ronnihansen/Desktop/softwareudvikling/development_of_large_systems/opgaver/w35/SearchEngine/ConsoleSearch/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/ronnihansen/Desktop/softwareudvikling/development_of_large_systems/opgaver/w35/SearchEngine/ConsoleSearch/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ronnihansen/Desktop/softwareudvikling/development_of_large_systems/opgaver/w35/SearchEngine/ConsoleSearch/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ronnihansen/Desktop/softwareudvikling/development_of_large_systems/opgaver/w35/SearchEngine/ConsoleSearch/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ronnihansen/Desktop/softwareudvikling/development_of_large_systems/opgaver/w35/SearchEngine/ConsoleSearch/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ronnihansen/Desktop/softwareudvikling/development_of_large_systems/opgaver/w35/SearchEngine/ConsoleSearch/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/ronnihansen/Desktop/softwareudvikling/development_of_large_systems/opgaver/w35/SearchEngine/ConsoleSearch/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/ronnihansen/Desktop/softwareudvikling/development_of_large_systems/opgaver/w35/SearchEngine/ConsoleSearch/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/ronnihansen/Desktop/softwareudvikling/development_of_large_systems/opgaver/w35/SearchEngine/ConsoleSearch/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/ronnihansen/Desktop/softwareudvikling/development_of_large_systems/opgaver/w35/SearchEngine/ConsoleSearch/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ronnihansen/Desktop/softwareudvikling/development_of_large_systems/opgaver/w35/SearchEngine/ConsoleSearch/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/ronnihansen/Desktop/softwareudvikling/development_of_large_systems/opgaver/w35/SearchEngine/ConsoleSearch/obj/Debug/net7.0/ConsoleSearch.csproj.AssemblyReference.cache
+/Users/ronnihansen/Desktop/softwareudvikling/development_of_large_systems/opgaver/w35/SearchEngine/ConsoleSearch/obj/Debug/net7.0/ConsoleSearch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ronnihansen/Desktop/softwareudvikling/development_of_large_systems/opgaver/w35/SearchEngine/ConsoleSearch/obj/Debug/net7.0/ConsoleSearch.AssemblyInfoInputs.cache
+/Users/ronnihansen/Desktop/softwareudvikling/development_of_large_systems/opgaver/w35/SearchEngine/ConsoleSearch/obj/Debug/net7.0/ConsoleSearch.AssemblyInfo.cs
+/Users/ronnihansen/Desktop/softwareudvikling/development_of_large_systems/opgaver/w35/SearchEngine/ConsoleSearch/obj/Debug/net7.0/ConsoleSearch.csproj.CoreCompileInputs.cache
+/Users/ronnihansen/Desktop/softwareudvikling/development_of_large_systems/opgaver/w35/SearchEngine/ConsoleSearch/obj/Debug/net7.0/ConsoleS.0D0CE351.Up2Date
+/Users/ronnihansen/Desktop/softwareudvikling/development_of_large_systems/opgaver/w35/SearchEngine/ConsoleSearch/obj/Debug/net7.0/ConsoleSearch.dll
+/Users/ronnihansen/Desktop/softwareudvikling/development_of_large_systems/opgaver/w35/SearchEngine/ConsoleSearch/obj/Debug/net7.0/refint/ConsoleSearch.dll
+/Users/ronnihansen/Desktop/softwareudvikling/development_of_large_systems/opgaver/w35/SearchEngine/ConsoleSearch/obj/Debug/net7.0/ConsoleSearch.pdb
+/Users/ronnihansen/Desktop/softwareudvikling/development_of_large_systems/opgaver/w35/SearchEngine/ConsoleSearch/obj/Debug/net7.0/ConsoleSearch.genruntimeconfig.cache
+/Users/ronnihansen/Desktop/softwareudvikling/development_of_large_systems/opgaver/w35/SearchEngine/ConsoleSearch/obj/Debug/net7.0/ref/ConsoleSearch.dll
